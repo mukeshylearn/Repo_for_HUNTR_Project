@@ -1,4 +1,5 @@
 Task 1 
+
 Write a Dockerfile for the nodeJS application ( https://github.com/heroku/node-js-getting-started ). Make sure to use all the Best Practices for Docker, it will be evaluated.
 
 Solution - 
